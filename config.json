@@ -1,0 +1,13 @@
+{
+  "name": "Dublin City Aerial LiDAR",
+  "description": "Aerial LiDAR of central Dublin (2015): an 80 m city block at full density and its 1 km² four-tile area thinned, ready to label buildings, roofs, ground and vegetation.",
+  "type": "project",
+  "categories": [
+    "import",
+    "pointclouds",
+    "project",
+    "geospatial"
+  ],
+  "icon": "https://raw.githubusercontent.com/supervisely-ecosystem/dublin-city-aerial-lidar-octree/master/cover.png",
+  "icon_cover": true
+}
